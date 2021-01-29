@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "servicio-productos.ribbon.listOfServers",
+      "type": "java.lang.String",
+      "description": "Description for servicio-productos.ribbon.listOfServers."
+    },
+    {
+      "name": "servicio-productos.ribbon.listOfServers",
+      "type": "java.lang.String",
+      "description": "Description for servicio-productos.ribbon.listOfServers."
+    },
+    {
+      "name": "servicio-productos.ribbon.listOfServers",
+      "type": "java.lang.String",
+      "description": "Description for servicio-productos.ribbon.listOfServers."
+    },
+    {
+      "name": "servicio-productos.ribbon.listOfServers",
+      "type": "java.lang.String",
+      "description": "Description for servicio-productos.ribbon.listOfServers."
+    }
+  ] }
